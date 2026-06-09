@@ -255,6 +255,42 @@
       },
       {
         "bus_width": 12,
+        "clearance": 0.3,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Analog",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.3,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "HV",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.7,
+        "via_drill": 0.35,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -270,6 +306,24 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.25,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.7,
+        "via_drill": 0.35,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -277,11 +331,74 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "+3V3": [
+        "Power"
+      ],
+      "+5V_PROT": [
+        "Power"
+      ],
+      "+BATT": [
+        "Power"
+      ],
+      "ADC_SENSE": [
+        "Analog"
+      ],
+      "CS_SENSE": [
+        "Analog"
+      ],
+      "CW_N1": [
+        "HV"
+      ],
+      "CW_N2": [
+        "HV"
+      ],
+      "CW_N3": [
+        "HV"
+      ],
+      "CW_N4": [
+        "HV"
+      ],
+      "CW_N5": [
+        "HV"
+      ],
+      "FILT_OUT": [
+        "Analog"
+      ],
+      "GND": [
+        "Power"
+      ],
+      "GND_BAT": [
+        "Power"
+      ],
+      "HV_OUT": [
+        "HV"
+      ],
+      "HV_RET": [
+        "HV"
+      ],
+      "HV_SEC_BOT": [
+        "HV"
+      ],
+      "HV_SEC_TOP": [
+        "HV"
+      ],
       "I2C_SCL": [
         "I2C"
       ],
       "I2C_SDA": [
         "I2C"
+      ],
+      "OPAMP_INM": [
+        "Analog"
+      ],
+      "OPAMP_OUT": [
+        "Analog"
+      ],
+      "SENSE_LIM": [
+        "Analog"
+      ],
+      "VBUS": [
+        "Power"
       ]
     },
     "netclass_patterns": []
