@@ -2633,7 +2633,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/3dmodels/com_github_espressif_kicad-libraries/espressif.3dshapes/ESP32-C3-MINI-1.STEP"
+		(model "${KICAD9_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-C3-WROOM-02.step"
 			(offset
 				(xyz -6.6 -8.37 0)
 			)
@@ -3731,7 +3731,7 @@
 			(uuid "699ec2dc-371f-4184-ac99-eba06e1a05f3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRR1208_12.7x12.7mm.step"
+		(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP6060FA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5415,7 +5415,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad.step"
+		(model "${KICAD9_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Texas_S-PWSON-N6-HDC2080.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10933,7 +10933,7 @@
 			(uuid "ad5f86ca-e445-4fa3-ab97-e5941b1ae450")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_XKB_U262-16XN-4BVC11.step"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4085.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16902,7 +16902,7 @@
 			(uuid "a6c2d067-4831-4aaf-ab00-da737583b767")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645Sx43SMTR92.step"
 			(offset
 				(xyz 0 0 0)
 			)
