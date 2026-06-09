@@ -1,0 +1,57 @@
+kibot:
+  version: 1
+
+outputs:
+  - name: render_3d_top
+    type: render_3d
+    dir: renders
+    options:
+      download: true
+      kicad_3d_url: https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/
+      output: pcb_3d_top.png
+      rotate_x: 3
+      rotate_z: 2
+      ray_tracing: true
+      width: 1600
+      height: 4800
+      view: top
+
+  - name: render_3d_bottom
+    type: render_3d
+    dir: renders
+    options:
+      download: true
+      kicad_3d_url: https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/
+      output: pcb_3d_bottom.png
+      rotate_x: 3
+      rotate_z: -2
+      ray_tracing: true
+      width: 1600
+      height: 4800
+      view: bottom
+
+  - name: render_flat_top
+    type: render_3d
+    dir: renders
+    options:
+      download: true
+      kicad_3d_url: https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/
+      output: pcb_flat_top.png
+      ray_tracing: true
+      width: 1200
+      height: 3600
+      orthographic: true
+      view: top
+
+  - name: render_flat_bottom
+    type: render_3d
+    dir: renders
+    options:
+      download: true
+      kicad_3d_url: https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/
+      output: pcb_flat_bottom.png
+      ray_tracing: true
+      width: 1200
+      height: 3600
+      orthographic: true
+      view: bottom
