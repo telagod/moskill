@@ -2633,7 +2633,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-C3-WROOM-02.step"
+		(model "${KIPRJMOD}/libs/espressif/3dmodels/espressif.3dshapes/ESP32-C3-MINI-1.STEP"
 			(offset
 				(xyz -6.6 -8.37 0)
 			)
