@@ -1,0 +1,30 @@
+{
+  "pages": [
+    { "path": "pages/index/index", "style": { "navigationBarTitleText": "MosKill", "navigationStyle": "custom" } },
+    { "path": "pages/connect/connect", "style": { "navigationBarTitleText": "Connect Device" } },
+    { "path": "pages/dashboard/dashboard", "style": { "navigationBarTitleText": "Dashboard", "navigationStyle": "custom" } },
+    { "path": "pages/stats/stats", "style": { "navigationBarTitleText": "Kill Statistics" } },
+    { "path": "pages/leaderboard/leaderboard", "style": { "navigationBarTitleText": "Leaderboard" } },
+    { "path": "pages/control/control", "style": { "navigationBarTitleText": "Device Control" } },
+    { "path": "pages/ota/ota", "style": { "navigationBarTitleText": "Firmware Update" } }
+  ],
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#ff4444",
+    "borderStyle": "black",
+    "backgroundColor": "#1a1a2e",
+    "list": [
+      { "pagePath": "pages/dashboard/dashboard", "text": "Home", "iconPath": "static/tab_home.png", "selectedIconPath": "static/tab_home_active.png" },
+      { "pagePath": "pages/stats/stats", "text": "Stats", "iconPath": "static/tab_stats.png", "selectedIconPath": "static/tab_stats_active.png" },
+      { "pagePath": "pages/leaderboard/leaderboard", "text": "Rank", "iconPath": "static/tab_rank.png", "selectedIconPath": "static/tab_rank_active.png" },
+      { "pagePath": "pages/control/control", "text": "Control", "iconPath": "static/tab_ctrl.png", "selectedIconPath": "static/tab_ctrl_active.png" }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "MosKill",
+    "navigationBarBackgroundColor": "#1a1a2e",
+    "backgroundColor": "#0f0f23",
+    "app-plus": { "titleNView": false }
+  }
+}

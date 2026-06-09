@@ -1,0 +1,9 @@
+ERC 报告 (2026-06-07T21:56:50+0800, UTF8 编码)
+Report includes: 错误, 警告
+
+***** 图纸 /
+[lib_symbol_mismatch]: 符号 'USB_C_Receptacle_USB2.0_14P' 与来源库 'Connector' 中的符号存在差异
+    ; warning
+    @(30.48 mm, 54.61 mm): 符号 J1 [USB_C_Receptacle_USB2.0_14P]
+
+ ** ERC 信息: 1 个错误 0 个警告 1

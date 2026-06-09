@@ -1,0 +1,397 @@
+ERC 报告 (2026-06-07T21:47:48+0800, UTF8 编码)
+Report includes: 错误, 警告
+
+***** 图纸 /
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(45.72 mm, 44.45 mm): Symbol J1 引脚 A5 [CC1, 双向, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(45.72 mm, 46.99 mm): Symbol J1 引脚 B5 [CC2, 双向, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(45.72 mm, 54.61 mm): Symbol J1 引脚 B7 [D-, 双向, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(45.72 mm, 59.69 mm): Symbol J1 引脚 B6 [D+, 双向, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(30.48 mm, 80.01 mm): Symbol #PWR001 引脚 1 [GND, 电源输入, 图线]
+[power_pin_not_driven]: 输入电源引脚不受任何输出电源引脚驱动
+    ; error
+    @(30.48 mm, 80.01 mm): Symbol #PWR001 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(74.93 mm, 54.61 mm): Symbol #PWR004 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(90.17 mm, 49.53 mm): Symbol U4 引脚 6 [Pin_6, 无源, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(90.17 mm, 54.61 mm): Symbol U4 引脚 8 [Pin_8, 无源, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(34.29 mm, 107.95 mm): Symbol U3 引脚 4 [Pin_4, 无源, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(64.77 mm, 95.25 mm): Symbol #PWR011 引脚 1 [+3V3, 电源输入, 图线]
+[power_pin_not_driven]: 输入电源引脚不受任何输出电源引脚驱动
+    ; error
+    @(64.77 mm, 95.25 mm): Symbol #PWR011 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(95.25 mm, 80.01 mm): Symbol #PWR002 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(30.48 mm, 124.46 mm): Symbol #PWR007 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(39.37 mm, 124.46 mm): Symbol #PWR008 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(110.49 mm, 74.93 mm): Symbol #PWR003 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(59.69 mm, 124.46 mm): Symbol #PWR009 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(69.85 mm, 124.46 mm): Symbol #PWR010 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(25.40 mm, 148.59 mm): Symbol #PWR015 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(44.45 mm, 144.78 mm): Symbol #PWR051 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(30.48 mm, 148.59 mm): Symbol #PWR014 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(149.86 mm, 46.99 mm): Symbol U5 引脚 4 [Pin_4, 无源, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(25.40 mm, 165.10 mm): Symbol #PWR017 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(30.48 mm, 165.10 mm): Symbol #PWR016 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(115.57 mm, 124.46 mm): Symbol #PWR012 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(154.94 mm, 80.01 mm): Symbol #PWR005 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(59.69 mm, 165.10 mm): Symbol #PWR020 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(124.46 mm, 124.46 mm): Symbol #PWR013 引脚 1 [GND, 电源输入, 图线]
+[label_dangling]: 标签未连接到任何对象
+    ; error
+    @(39.37 mm, 175.26 mm): 标签 'BOOT'
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(190.50 mm, 41.91 mm): Symbol Q2 引脚 3 [Pin_3, 无源, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(190.50 mm, 52.07 mm): Symbol Q2 引脚 7 [Pin_7, 无源, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(190.50 mm, 54.61 mm): Symbol Q2 引脚 8 [Pin_8, 无源, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(149.86 mm, 138.43 mm): Symbol #PWR021 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(44.45 mm, 199.39 mm): Symbol #PWR018 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(154.94 mm, 138.43 mm): Symbol #PWR022 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(195.58 mm, 80.01 mm): Symbol #PWR006 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(85.09 mm, 199.39 mm): Symbol #PWR019 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(20.32 mm, 218.44 mm): Symbol #PWR026 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(175.26 mm, 148.59 mm): Symbol #PWR023 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(38.10 mm, 234.95 mm): Symbol D12 引脚 2 [DOUT, 输出, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(175.26 mm, 165.10 mm): Symbol #PWR025 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(160.02 mm, 180.34 mm): Symbol #PWR024 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(20.32 mm, 247.65 mm): Symbol #PWR027 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(30.48 mm, 247.65 mm): Symbol #PWR028 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(129.54 mm, 218.44 mm): Symbol #PWR030 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(80.01 mm, 255.27 mm): Symbol #PWR029 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(119.38 mm, 247.65 mm): Symbol #PWR031 引脚 1 [GND, 电源输入, 图线]
+[power_pin_not_driven]: 输入电源引脚不受任何输出电源引脚驱动
+    ; error
+    @(49.53 mm, 274.32 mm): Symbol U7 引脚 8 [VCC, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(134.62 mm, 250.19 mm): Symbol #PWR032 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(35.56 mm, 314.96 mm): Symbol #PWR035 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(49.53 mm, 314.96 mm): Symbol #PWR033 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(74.93 mm, 314.96 mm): Symbol #PWR034 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(139.70 mm, 314.96 mm): Symbol #PWR036 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(49.53 mm, 369.57 mm): Symbol #PWR037 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(100.33 mm, 369.57 mm): Symbol #PWR038 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(149.86 mm, 369.57 mm): Symbol #PWR039 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(35.56 mm, 420.37 mm): Symbol #PWR042 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(49.53 mm, 420.37 mm): Symbol #PWR041 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(124.46 mm, 425.45 mm): Symbol #PWR043 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(100.33 mm, 439.42 mm): Symbol #PWR050 引脚 1 [+3V3, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(234.95 mm, 389.89 mm): Symbol #PWR040 引脚 1 [GND, 电源输入, 图线]
+[label_dangling]: 标签未连接到任何对象
+    ; error
+    @(97.79 mm, 452.12 mm): 标签 '+3V3'
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(30.48 mm, 464.82 mm): Symbol #PWR044 引脚 1 [GND, 电源输入, 图线]
+[missing_power_pin]: 符号 U6 在未放置的单元 [ C ] 中有输入电源引脚。
+    ; error
+    @(100.33 mm, 459.74 mm): 符号 U6 [LMV358]
+[label_dangling]: 标签未连接到任何对象
+    ; error
+    @(97.79 mm, 467.36 mm): 标签 'GND'
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(69.85 mm, 474.98 mm): Symbol #PWR045 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(100.33 mm, 480.06 mm): Symbol #PWR046 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(129.54 mm, 480.06 mm): Symbol #PWR047 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(160.02 mm, 480.06 mm): Symbol #PWR048 引脚 1 [GND, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(170.18 mm, 480.06 mm): Symbol #PWR049 引脚 1 [GND, 电源输入, 图线]
+[lib_symbol_mismatch]: 符号 'USB_C_Receptacle_USB2.0_14P' 与来源库 'Connector' 中的符号存在差异
+    ; warning
+    @(30.48 mm, 54.61 mm): 符号 J1 [USB_C_Receptacle_USB2.0_14P]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(30.48 mm, 80.01 mm): 符号 #PWR001 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(74.93 mm, 54.61 mm): 符号 #PWR004 [GND]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(64.77 mm, 95.25 mm): 符号 #PWR011 [+3V3]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(95.25 mm, 80.01 mm): 符号 #PWR002 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(30.48 mm, 124.46 mm): 符号 #PWR007 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(39.37 mm, 124.46 mm): 符号 #PWR008 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(110.49 mm, 74.93 mm): 符号 #PWR003 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(59.69 mm, 124.46 mm): 符号 #PWR009 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(69.85 mm, 124.46 mm): 符号 #PWR010 [GND]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(25.40 mm, 148.59 mm): 符号 #PWR015 [+3V3]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(44.45 mm, 144.78 mm): 符号 #PWR051 [+3V3]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(30.48 mm, 148.59 mm): 符号 #PWR014 [+3V3]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(25.40 mm, 165.10 mm): 符号 #PWR017 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(30.48 mm, 165.10 mm): 符号 #PWR016 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(115.57 mm, 124.46 mm): 符号 #PWR012 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(154.94 mm, 80.01 mm): 符号 #PWR005 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(59.69 mm, 165.10 mm): 符号 #PWR020 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(124.46 mm, 124.46 mm): 符号 #PWR013 [GND]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(149.86 mm, 138.43 mm): 符号 #PWR021 [+3V3]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(44.45 mm, 199.39 mm): 符号 #PWR018 [GND]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(154.94 mm, 138.43 mm): 符号 #PWR022 [+3V3]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(195.58 mm, 80.01 mm): 符号 #PWR006 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(85.09 mm, 199.39 mm): 符号 #PWR019 [GND]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(20.32 mm, 218.44 mm): 符号 #PWR026 [+3V3]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(175.26 mm, 148.59 mm): 符号 #PWR023 [+3V3]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(175.26 mm, 165.10 mm): 符号 #PWR025 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(160.02 mm, 180.34 mm): 符号 #PWR024 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(20.32 mm, 247.65 mm): 符号 #PWR027 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(30.48 mm, 247.65 mm): 符号 #PWR028 [GND]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(129.54 mm, 218.44 mm): 符号 #PWR030 [+3V3]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(80.01 mm, 255.27 mm): 符号 #PWR029 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(119.38 mm, 247.65 mm): 符号 #PWR031 [GND]
+[multiple_net_names]: NE555_THR 和 NE555_TR 都连接到同一项上; 将使用 NE555_THR 作为网表中的网络名称
+    ; warning
+    @(62.23 mm, 289.56 mm): 标签 'NE555_THR'
+    @(36.83 mm, 279.40 mm): 标签 'NE555_TR'
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(134.62 mm, 250.19 mm): 符号 #PWR032 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(35.56 mm, 314.96 mm): 符号 #PWR035 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(49.53 mm, 314.96 mm): 符号 #PWR033 [GND]
+[multiple_net_names]: GND 和 SNUB_MID 都连接到同一项上; 将使用 GND 作为网表中的网络名称
+    ; warning
+    @(30.48 mm, 80.01 mm): Symbol #PWR001 引脚 1 [GND, 电源输入, 图线]
+    @(154.94 mm, 283.21 mm): 标签 'SNUB_MID'
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(74.93 mm, 314.96 mm): 符号 #PWR034 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(139.70 mm, 314.96 mm): 符号 #PWR036 [GND]
+[multiple_net_names]: CW1 和 HV_SEC_TOP 都连接到同一项上; 将使用 CW1 作为网表中的网络名称
+    ; warning
+    @(49.53 mm, 359.41 mm): 标签 'CW1'
+    @(200.66 mm, 289.56 mm): 标签 'HV_SEC_TOP'
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(49.53 mm, 369.57 mm): 符号 #PWR037 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(100.33 mm, 369.57 mm): 符号 #PWR038 [GND]
+[multiple_net_names]: CW6 和 HV_OUT 都连接到同一项上; 将使用 CW6 作为网表中的网络名称
+    ; warning
+    @(143.51 mm, 340.36 mm): 标签 'CW6'
+    @(170.18 mm, 351.79 mm): 标签 'HV_OUT'
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(149.86 mm, 369.57 mm): 符号 #PWR039 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(35.56 mm, 420.37 mm): 符号 #PWR042 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(49.53 mm, 420.37 mm): 符号 #PWR041 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(124.46 mm, 425.45 mm): 符号 #PWR043 [GND]
+[lib_symbol_mismatch]: 符号 '+3V3' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(100.33 mm, 439.42 mm): 符号 #PWR050 [+3V3]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(234.95 mm, 389.89 mm): 符号 #PWR040 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(30.48 mm, 464.82 mm): 符号 #PWR044 [GND]
+[lib_symbol_mismatch]: 符号 'LMV358' 与来源库 'Amplifier_Operational' 中的符号存在差异
+    ; warning
+    @(100.33 mm, 459.74 mm): 符号 U6 [LMV358]
+[missing_input_pin]: 符号 U6 在未放置的单元 [ B ] 中有输入引脚。
+    ; warning
+    @(100.33 mm, 459.74 mm): 符号 U6 [LMV358]
+[missing_unit]: 符号 U6 有未放置的单元 [ B, C ]
+    ; warning
+    @(100.33 mm, 459.74 mm): 符号 U6 [LMV358]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(69.85 mm, 474.98 mm): 符号 #PWR045 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(100.33 mm, 480.06 mm): 符号 #PWR046 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(129.54 mm, 480.06 mm): 符号 #PWR047 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(160.02 mm, 480.06 mm): 符号 #PWR048 [GND]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(170.18 mm, 480.06 mm): 符号 #PWR049 [GND]
+
+ ** ERC 信息: 129 个错误 70 个警告 59

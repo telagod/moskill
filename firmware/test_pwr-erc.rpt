@@ -1,0 +1,15 @@
+ERC 报告 (2026-06-07T21:48:18+0800, UTF8 编码)
+Report includes: 错误, 警告
+
+***** 图纸 /
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(49.53 mm, 45.72 mm): Symbol R1 引脚 1 [无源, 图线]
+[power_pin_not_driven]: 输入电源引脚不受任何输出电源引脚驱动
+    ; error
+    @(49.53 mm, 59.69 mm): Symbol #PWR01 引脚 1 [GND, 电源输入, 图线]
+[lib_symbol_mismatch]: 符号 'GND' 与来源库 'power' 中的符号存在差异
+    ; warning
+    @(49.53 mm, 59.69 mm): 符号 #PWR01 [GND]
+
+ ** ERC 信息: 3 个错误 2 个警告 1

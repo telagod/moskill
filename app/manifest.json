@@ -1,0 +1,40 @@
+{
+  "name": "MosKill",
+  "appid": "__UNI__MOSKILL",
+  "description": "Smart Mosquito Swatter - Kill Counter & BLE Control",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "app-plus": {
+    "usingComponents": true,
+    "distribute": {
+      "android": {
+        "permissions": [
+          "<uses-permission android:name=\"android.permission.BLUETOOTH\"/>",
+          "<uses-permission android:name=\"android.permission.BLUETOOTH_ADMIN\"/>",
+          "<uses-permission android:name=\"android.permission.BLUETOOTH_SCAN\"/>",
+          "<uses-permission android:name=\"android.permission.BLUETOOTH_CONNECT\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>",
+          "<uses-permission android:name=\"android.permission.READ_EXTERNAL_STORAGE\"/>"
+        ]
+      },
+      "ios": {
+        "dSYMs": false,
+        "privacyDescription": {
+          "NSBluetoothAlwaysUsageDescription": "MosKill needs Bluetooth to connect to your mosquito swatter",
+          "NSBluetoothPeripheralUsageDescription": "MosKill needs Bluetooth to connect to your mosquito swatter"
+        }
+      }
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": { "urlCheck": false },
+    "usingComponents": true,
+    "requiredPrivateInfos": ["getLocation"],
+    "permission": {
+      "scope.bluetooth": { "desc": "MosKill needs Bluetooth to connect to your mosquito swatter" }
+    }
+  },
+  "h5": { "devServer": { "port": 8080 } }
+}

@@ -1,0 +1,54 @@
+ERC 报告 (2026-06-07T21:52:47+0800, UTF8 编码)
+Report includes: 错误, 警告
+
+***** 图纸 /
+[label_dangling]: 标签未连接到任何对象
+    ; error
+    @(46.99 mm, 41.91 mm): 标签 '+3V3'
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(41.91 mm, 52.07 mm): Symbol U6 引脚 2 [-, 输入, 图线]
+[pin_not_driven]: 输入引脚不受任何输出引脚驱动
+    ; error
+    @(41.91 mm, 52.07 mm): Symbol U6 引脚 2 [-, 输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(57.15 mm, 49.53 mm): Symbol U6 引脚 1 [输出, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(91.44 mm, 46.99 mm): Symbol U6 引脚 5 [+, 输入, 图线]
+[pin_not_driven]: 输入引脚不受任何输出引脚驱动
+    ; error
+    @(91.44 mm, 46.99 mm): Symbol U6 引脚 5 [+, 输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(91.44 mm, 52.07 mm): Symbol U6 引脚 6 [-, 输入, 图线]
+[pin_not_driven]: 输入引脚不受任何输出引脚驱动
+    ; error
+    @(91.44 mm, 52.07 mm): Symbol U6 引脚 6 [-, 输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(106.68 mm, 49.53 mm): Symbol U6 引脚 7 [输出, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(147.32 mm, 41.91 mm): Symbol U6 引脚 8 [V+, 电源输入, 图线]
+[power_pin_not_driven]: 输入电源引脚不受任何输出电源引脚驱动
+    ; error
+    @(147.32 mm, 41.91 mm): Symbol U6 引脚 8 [V+, 电源输入, 图线]
+[pin_not_connected]: 引脚未连接
+    ; error
+    @(147.32 mm, 57.15 mm): Symbol U6 引脚 4 [V-, 电源输入, 图线]
+[power_pin_not_driven]: 输入电源引脚不受任何输出电源引脚驱动
+    ; error
+    @(147.32 mm, 57.15 mm): Symbol U6 引脚 4 [V-, 电源输入, 图线]
+[lib_symbol_mismatch]: 符号 'LMV358' 与来源库 'Amplifier_Operational' 中的符号存在差异
+    ; warning
+    @(49.53 mm, 49.53 mm): 符号 U6 [LMV358]
+[lib_symbol_mismatch]: 符号 'LMV358' 与来源库 'Amplifier_Operational' 中的符号存在差异
+    ; warning
+    @(99.06 mm, 49.53 mm): 符号 U6 [LMV358]
+[lib_symbol_mismatch]: 符号 'LMV358' 与来源库 'Amplifier_Operational' 中的符号存在差异
+    ; warning
+    @(149.86 mm, 49.53 mm): 符号 U6 [LMV358]
+
+ ** ERC 信息: 16 个错误 13 个警告 3
